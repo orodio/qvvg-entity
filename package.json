@@ -1,0 +1,6 @@
+{
+  "name": "@qvvg/entity",
+  "version": "1.0.0",
+  "module": "entity.mjs",
+  "unpkg": "entity.mjs"
+}
